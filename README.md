@@ -44,7 +44,7 @@ Primero se tuvo que realizar la BD y se penso en las tablas que pudieran funcion
 #Diagrama Entidad-Relación de la BD
 ![Captura de pantalla 2024-08-11 191242](https://github.com/user-attachments/assets/3854343b-73f0-47ea-ad48-4d788d95f0d7)
 
-#Problemas conocidos
+# Problemas conocidos
 VB6 al ser una herramienta algo obsoleta es un reto algo dificil, anteriormete se había trabajao en Vb pero en .NET y si es un cambio radical de uno y otro, se tuvieron algunos problemas con el manejo de forms, así mismo de utilizar datos dinamicos y poder utilizar de mejor manera nuestra BD, al ser algo obsolteo no hay mucha información pero se trato
 de trabajar con lo que se encontraba, el trabajo en equipo fue algo fundamental en este sprint :D
 
